@@ -6,7 +6,7 @@
 <h3 align="center">An Aspiring Full-Stack developer from India</h3>
 
 
-   <img align="right" alt="Coding" width="320"   src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">
+   <img align="right" alt="Coding" width="300" height="280"   src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">
 
 - 🔭 I’m currently working on [Portfolio](https://priyanshubharti.vercel.app)
 
@@ -37,10 +37,9 @@
 
 <h3 align="left">Languages and Tools:</h3>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-<img src="https://skillicons.dev/icons?i=html,css,javascript,tailwind,react,next,nodejs,express,ts,mongodb,postgres" />
-<img src="https://skillicons.dev/icons?i=prisma,linkedin,vercel,vscode,git,github,gitlab,mysql,java,c,bash" />
+<img src="https://skillicons.dev/icons?i=html,css,javascript,tailwind,react,next,nodejs,express,ts,mongodb,postgres,prisma,linkedin,vercel" />
 <p align="left">
-<img src="https://skillicons.dev/icons?i=vite,npm,figma,postman" /><a href="https://www.framer.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/framer/framer-icon.svg" alt="framer" width="40" height="40"/> </a> 
+<img src="https://skillicons.dev/icons?i=vscode,git,github,gitlab,mysql,java,c,bash,vite,npm,figma,postman" /><a href="https://www.framer.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/framer/framer-icon.svg" alt="framer" width="40" height="40"/> </a> 
  </p>
 
 <br></br>
