@@ -1,19 +1,28 @@
 <p align="right"> <img src="https://komarev.com/ghpvc/?username=PriyanshuBh&label=Profile%20views&color=0e75b6&style=flat" alt="PriyanshuBh" /> </p>
 <h1 align="center">
-   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Righteous&weight=500&size=35&duration=4000&pause=0200&center=true&vCenter=true&random=false&width=500&height=70&lines=Hi+There!%F0%9F%91%8B;I'm+Priyanshu+Bharti;Full+Stack+Developer;" alt="Typing SVG" /></a>
+   <a href="https://https://github.com/PriyanshuBh"><img src="https://readme-typing-svg.herokuapp.com?font=Righteous&weight=500&size=35&duration=4000&pause=0200&center=true&vCenter=true&random=false&width=500&height=70&lines=Hi+There!%F0%9F%91%8B;I'm+Priyanshu+Bharti;Full+Stack+Developer;" alt="Typing SVG" /></a>
 </h1>
 
 <h3 align="center">An Aspiring Full-Stack developer from India</h3>
 
-<img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">
+
+   <img align="right" alt="Coding" width="320"   src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">
+
+- 🔭 I’m currently working on [Portfolio](https://priyanshubharti.vercel.app)
+
+- 🌱 I’m currently learning **Prisma**
 
 - 📫 How to reach me **hi.priyanshubharti@gmail.com**
 
 - 👨‍💻 All of my projects are available at [Github](https://github.com/PriyanshuBh)
 
+- 💬 Ask me about **NextJs, TypeScript**
+
 - 📄 Know about my experiences [here](https://www.linkedin.com/in/priyanshu-bharti/)
+<br></br>
 
 <h3 align="left">Connect with me:</h3>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 <p align="left">
   <a href="mailto:priyanshubh2003@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" target="_blank" />
@@ -27,7 +36,7 @@
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
-
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 <img src="https://skillicons.dev/icons?i=html,css,javascript,tailwind,react,next,nodejs,express,ts,mongodb,postgres" />
 <img src="https://skillicons.dev/icons?i=prisma,linkedin,vercel,vscode,git,github,gitlab,mysql,java,c,bash" />
 <p align="left">
