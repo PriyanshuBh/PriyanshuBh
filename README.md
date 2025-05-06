@@ -50,6 +50,11 @@
   <img width=330 src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=priyanshubh&langs_count=8&layout=compact&theme=dark&border_radius=10&hide_border=true" alt="top langs" />
   <img width=440  src="https://github-readme-stats-salesp07.vercel.app/api?username=priyanshubh&count_private=true&show_icons=true&theme=dark&rank_icon=github&hide_border=true&border_radius=10" alt="readme stats" />
   <img width=440 src="https://github-readme-streak-stats-salesp07.vercel.app/?user=priyanshubh&count_private=true&theme=dark&hide_border=true&border_radius=10&card_width=495" alt="streak stats"/>
+    <picture>
+  <source media="(prefers-color-scheme: dark)" srcset="snake/github-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="snake/github-light.svg" />
+  <img alt="github-snake" src="snake/github-light.svg" />
+</picture>
 </div>
 
 ### ✍️ Random Dev Quote
